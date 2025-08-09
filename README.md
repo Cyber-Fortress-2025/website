@@ -1,2 +1,24 @@
-# website
-Cyber Fortress 2025 Website Landing Page
+
+# Cyber Fortress – Resources Site (Jekyll)
+
+This is a lightweight Jekyll site designed for GitHub Pages. It provides
+simple, fast navigation to tools used during the **Cyber Fortress** exercise.
+
+## Quick start (GitHub Pages)
+1. Create a new public repo on GitHub, e.g., `cyber-fortress`.
+2. Upload this folder's contents to the repo root.
+3. In **Settings → Pages**, set:
+   - **Source**: `Deploy from a branch`
+   - **Branch**: `main` (or `master`), folder: `/ (root)`
+4. Wait a minute for Pages to build, then visit the published URL.
+5. (Optional) Set a custom domain and update `_config.yml` `url`/`baseurl`.
+
+## Local preview (optional)
+You can preview locally with Ruby/Jekyll (not required for GitHub Pages builds):
+
+```bash
+gem install bundler jekyll
+bundle init
+bundle add jekyll
+bundle exec jekyll serve
+```

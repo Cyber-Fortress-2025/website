@@ -1,0 +1,12 @@
+
+title: Cyber Fortress
+description: Resource hub for the Cyber Fortress
+# Leave theme unset to use our custom layout. GitHub Pages will build without plugins.
+markdown: kramdown
+permalink: pretty
+# Update these for your org if you have a custom domain or base path
+url: "https://Cyber-Fortress-2025.github.io"   # e.g., https://your-org.github.io
+baseurl: "/website"  # e.g., /<landingpage>
+# Optional social/metadata
+author: Cyber Fortress
+timezone: America/New_York

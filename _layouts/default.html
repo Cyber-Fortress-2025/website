@@ -1,0 +1,22 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  {% include header.html %}
+  <main class="container">
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <p>© {{ "now" | date: "%Y" }} Cyber Fortress — Built with Jekyll</p>
+    </div>
+  </footer>
+</body>
+</html>
