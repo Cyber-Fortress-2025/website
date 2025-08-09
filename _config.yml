@@ -5,8 +5,8 @@ description: Resource hub for the Cyber Fortress
 markdown: kramdown
 permalink: pretty
 # Update these for your org if you have a custom domain or base path
-url: "https://anaesthetic.github.io"   # e.g., https://your-org.github.io
-baseurl: "/CF25-web-03"  # e.g., /cyber-fortress
+url: "https://Cyber-Fortress-2025.github.io"   # e.g., https://your-org.github.io
+baseurl: "/website"  # e.g., /<landingpage>
 # Optional social/metadata
 author: Cyber Fortress
 timezone: America/New_York
