@@ -14,5 +14,5 @@ permalink: /resources/mattermost/
     <li>Multi-factor authentication (MFA) support.</li>
   </ul>
   <h3>Quick Access</h3>
-  <p>Visit: <a href="https://mattermost.example.com">Mattermost Platform</a></p>
+  <p>Visit: <a href="https://mattermost.aws.thecyberexercise.com">Mattermost Platform</a></p>
 </div>
