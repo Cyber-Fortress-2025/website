@@ -14,5 +14,5 @@ permalink: /resources/opencti/
     <li>Graph visualization for entity relationships.</li>
   </ul>
   <h3>Quick Access</h3>
-  <p>Visit: <a href="https://opencti.example.com">OpenCTI Platform</a></p>
+  <p>Visit: <a href="https://opencti.aws.thecyberexercise.com">OpenCTI Platform</a></p>
 </div>
