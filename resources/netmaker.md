@@ -14,5 +14,5 @@ permalink: /resources/netmaker/
     <li>Subnet routing for advanced setups.</li>
   </ul>
   <h3>Quick Access</h3>
-  <p>Visit: <a href="https://netmaker.example.com">Netmaker Platform</a></p>
+  <p>Visit: <a href="https://dashboard.aws.thecyberexercise.com">Netmaker Platform</a></p>
 </div>
