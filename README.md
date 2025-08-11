@@ -13,6 +13,9 @@ simple, fast navigation to tools used during the **Cyber Fortress** exercise.
 4. Wait a minute for Pages to build, then visit the published URL.
 5. (Optional) Set a custom domain and update `_config.yml` `url`/`baseurl`.
 
+## Pulling forked requests
+1. Beware! Because it is hosted by some GitHub owner you must modify '_config.yml' with the appropriate url and baseurl. Not resolving this creates many display errors during testing.
+
 ## Local preview (optional)
 You can preview locally with Ruby/Jekyll (not required for GitHub Pages builds):
 
