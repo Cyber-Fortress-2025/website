@@ -49,6 +49,7 @@ title: Cyber Fortress — Resources Hub
     </h3>
     <p>Check the current status and uptime of core exercise services. You must be connected to Netmaker public-services.</p>
     <a class="btn" href="{{ '/resources/status/' | relative_url }}">View Status</a>
+    <div>
   <div class="card">
     <h3>
       <img src="https://img.icons8.com/ios-filled/40/7cc5ff/cloud-network.png" alt="ION Network" style="vertical-align:middle;margin-right:10px;">
