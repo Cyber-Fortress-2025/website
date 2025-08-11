@@ -47,7 +47,7 @@ title: Cyber Fortress — Resources Hub
       <img src="https://img.icons8.com/ios-filled/40/ffb300/server.png" alt="Server Status" style="vertical-align:middle;margin-right:10px;">
       Server Status
     </h3>
-    <p>Check the current status and uptime of core exercise services.</p>
+    <p>Check the current status and uptime of core exercise services. You must be connected to Netmaker public-services.</p>
     <a class="btn" href="{{ '/resources/status/' | relative_url }}">View Status</a>
   </div>
 <div class="card">
