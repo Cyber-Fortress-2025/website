@@ -12,7 +12,7 @@ permalink: /resources/ion/
         <li>2. Common access card (CAC) Authentication -via PKI Login - will be required</li>
         <li>3. Scroll down and click on “EXERCISE USERS”</li>
         <li>4. Scroll down and select “Cyber Fortress 25” from the ACTIVE EXERCISES list.</li>
-        <li>5. Enter the access code: CyberFortress25#
+        <li>5. Enter the access code: CyberFortress25#<li>
     </ul>
     <h3>Quick Access</h3>
     <p>Visit: <a href="https://ion.aws.thecyberexercise.com">ION Platform</a></p>
