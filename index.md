@@ -64,8 +64,17 @@ title: Cyber Fortress — Resources Hub
       Submit Status Report
     </h3>
     <p>Submit your team's status report securely.</p>
-    <a class="btn" href="https://forms.osi.apps.mil/Pages/ResponsePage.aspx?id=D9fm-kuVEUiStgUw1vhMQ3u0h54G5ddCp_1JgSwszCpUMVFIVFRIMjlIQkNSNk5FNDRFOEpPREdCTi4u" target="_blank" rel="noopener">Submit Status Report</a>
+    <a class="btn" href="https://forms.osi.apps.mil/Pages/ResponsePage.aspx?id=D9fm-kuVEUiStgUw1vhMQ3u0h54G5ddCp_1JgSwszCpUMVFIVFRIMjlIQkNSNk5FNDRFOEpPREdCTi4u" target="_blank" rel="noopener">Submit</a>
   </div>
+  <div class="card">
+    <h3>
+      <img src="https://img.icons8.com/ios-filled/40/cccccc/document.png" alt="STUB" style="vertical-align:middle;margin-right:10px;">
+      Submit Access Request
+    </h3>
+    <p>Submit network access request</p>
+    <a class="btn" href="https://forms.osi.apps.mil/Pages/ResponsePage.aspx?id=D9fm-kuVEUiStgUw1vhMQ3u0h54G5ddCp_1JgSwszCpUNEwyWE1DOVpPUTlMRUVQQlREQUhJUjNFUC4u" target="_blank" rel="noopener">Submit</a>
+  </div>
+  
 
 <!--
 <div class="card">
