@@ -58,6 +58,14 @@ title: Cyber Fortress — Resources Hub
     <p>Access the ION Network.</p>
     <a class="btn" href="{{ '/resources/ion/' | relative_url }}">View Guide</a>
   </div>
+  <div class="card">
+    <h3>
+      <img src="https://img.icons8.com/ios-filled/40/ffb300/document.png" alt="Submit Status Report" style="vertical-align:middle;margin-right:10px;">
+      Submit Status Report
+    </h3>
+    <p>Submit your team's status report securely.</p>
+    <a class="btn" href="https://forms.osi.apps.mil/Pages/ResponsePage.aspx?id=D9fm-kuVEUiStgUw1vhMQ3u0h54G5ddCp_1JgSwszCpUMVFIVFRIMjlIQkNSNk5FNDRFOEpPREdCTi4u" target="_blank" rel="noopener">Submit Status Report</a>
+  </div>
 
 <!--
 <div class="card">
