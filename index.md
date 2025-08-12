@@ -42,7 +42,22 @@ title: Cyber Fortress — Resources Hub
     <p>Time‑based one‑time password (TOTP) apps to secure your accounts.</p>
     <a class="btn" href="{{ '/resources/authenticators/' | relative_url }}">Authenticator Tips →</a>
   </div>
-</div>
+  <div class="card">
+    <h3>
+      <img src="https://img.icons8.com/ios-filled/40/ffb300/server.png" alt="Server Status" style="vertical-align:middle;margin-right:10px;">
+      Server Status
+    </h3>
+    <p>Check the current service statuses. You must be connected to Netmaker public-services.</p>
+    <a class="btn" href="{{ '/resources/status/' | relative_url }}">View Status</a>
+  </div>
+  <div class="card">
+    <h3>
+      <img src="https://img.icons8.com/ios-filled/40/7cc5ff/cloud-network.png" alt="ION Network" style="vertical-align:middle;margin-right:10px;">
+      ION Network
+    </h3>
+    <p>Access the ION Network.</p>
+    <a class="btn" href="{{ '/resources/ion/' | relative_url }}">View Guide</a>
+  </div>
 
 <!--
 <div class="card">
