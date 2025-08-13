@@ -1,0 +1,18 @@
+---
+layout: default
+title: RFI Tracker
+permalink: /resources/RFI_Tracker/
+---
+
+<div class="card">
+  <h2>OpenCTI — Threat Intelligence</h2>
+  <p><strong>What it is:</strong> An open platform to collect, model, share, and analyze cyber threat intelligence using the STIX2 data model.</p>
+  <h3>Features</h3>
+  <ul>
+    <li>Incident and campaign creation.</li>
+    <li>Indicator and observable management.</li>
+    <li>Graph visualization for entity relationships.</li>
+  </ul>
+  <h3>Quick Access</h3>
+  <p>Visit: <a href="https://forms.osi.apps.mil/Pages/ResponsePage.aspx?id=D9fm-kuVEUiStgUw1vhMQ7Rk56EcanJOux-hIbnBCfhUOFNRSzJUVk40NlFFVjRDNVY2TkRaQlNEWC4u">RFI Tracker</a></p>
+</div>
