@@ -12,6 +12,30 @@ title: Cyber Fortress — Resources Hub
 <div class="grid cols-2">
   <div class="card">
     <h3>
+      <img src="https://img.icons8.com/ios-filled/40/ffb300/document.png" alt="Submit Status Report" style="vertical-align:middle;margin-right:10px;">
+      Submit Status Report
+    </h3>
+    <p>Submit your team's status report.</p>
+    <a class="btn" href="https://forms.osi.apps.mil/Pages/ResponsePage.aspx?id=D9fm-kuVEUiStgUw1vhMQ3u0h54G5ddCp_1JgSwszCpUMVFIVFRIMjlIQkNSNk5FNDRFOEpPREdCTi4u" target="_blank" rel="noopener">Submit</a>
+  </div>
+  <div class="card">
+    <h3>
+      <img src="https://img.icons8.com/ios-filled/40/cccccc/document.png" alt="STUB" style="vertical-align:middle;margin-right:10px;">
+      Submit Access Request
+    </h3>
+    <p>Submit network access request.</p>
+    <a class="btn" href="https://forms.osi.apps.mil/Pages/ResponsePage.aspx?id=D9fm-kuVEUiStgUw1vhMQ3u0h54G5ddCp_1JgSwszCpUNEwyWE1DOVpPUTlMRUVQQlREQUhJUjNFUC4u" target="_blank" rel="noopener">Submit</a>
+  </div>
+  <div class="card">
+    <h3>
+      <img src="https://img.icons8.com/ios-filled/40/ffb300/document.png" alt="Submit RFI" style="vertical-align:middle;margin-right:10px;">
+      Submit RFI
+    </h3>
+    <p>Submit request for information.</p>
+    <a class="btn" href="https://forms.osi.apps.mil/Pages/ResponsePage.aspx?id=D9fm-kuVEUiStgUw1vhMQ7Rk56EcanJOux-hIbnBCfhUOFNRSzJUVk40NlFFVjRDNVY2TkRaQlNEWC4u" target="_blank" rel="noopener">Submit</a>
+  </div>
+  <div class="card">
+    <h3>
       <img src="https://img.icons8.com/ios-filled/40/7cc5ff/chat.png" alt="Mattermost" style="vertical-align:middle;margin-right:10px;">
       Mattermost
     </h3>
@@ -58,22 +82,7 @@ title: Cyber Fortress — Resources Hub
     <p>Access the ION Network.</p>
     <a class="btn" href="{{ '/resources/ion/' | relative_url }}">View Guide</a>
   </div>
-  <div class="card">
-    <h3>
-      <img src="https://img.icons8.com/ios-filled/40/ffb300/document.png" alt="Submit Status Report" style="vertical-align:middle;margin-right:10px;">
-      Submit Status Report
-    </h3>
-    <p>Submit your team's status report securely.</p>
-    <a class="btn" href="https://forms.osi.apps.mil/Pages/ResponsePage.aspx?id=D9fm-kuVEUiStgUw1vhMQ3u0h54G5ddCp_1JgSwszCpUMVFIVFRIMjlIQkNSNk5FNDRFOEpPREdCTi4u" target="_blank" rel="noopener">Submit</a>
-  </div>
-  <div class="card">
-    <h3>
-      <img src="https://img.icons8.com/ios-filled/40/cccccc/document.png" alt="STUB" style="vertical-align:middle;margin-right:10px;">
-      Submit Access Request
-    </h3>
-    <p>Submit network access request</p>
-    <a class="btn" href="https://forms.osi.apps.mil/Pages/ResponsePage.aspx?id=D9fm-kuVEUiStgUw1vhMQ3u0h54G5ddCp_1JgSwszCpUNEwyWE1DOVpPUTlMRUVQQlREQUhJUjNFUC4u" target="_blank" rel="noopener">Submit</a>
-  </div>
+  
   
 
 <!--
